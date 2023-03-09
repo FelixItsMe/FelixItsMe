@@ -11,7 +11,7 @@
 <br />
 <p>Feel free to contact me</p>
 <div>
-  <a link="mailto:faliq.kintara14@gmail.com">
+  <a href="mailto:faliq.kintara14@gmail.com">
     <img style="width: 26px;" src="https://th.bing.com/th/id/OIP.QP0jsw6idYMNkD-K3Pas2AHaHa?w=187&h=187&c=7&r=0&o=5&pid=1.7" />
   </a>
 </div>
