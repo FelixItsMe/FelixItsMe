@@ -6,7 +6,7 @@ Hello there! 👋 I'm Faliq Hendriana, a software developer that like efficient 
 ## Skills
 - **Languages:** PHP, JavaScript, CSS
 - **Frameworks:** Laravel, Node.js
-- **Currently Learning:** Flutter, Go, Python
+- **Currently Learning:** <img src="https://www.svgrepo.com/show/353751/flutter.svg" width="50" height="50" />, Go, Python
 
 ## Learning Journey
 I am currently expanding my skill set by diving into the exciting worlds of Flutter, Go, and Python. Stay tuned for some cool projects coming up!
