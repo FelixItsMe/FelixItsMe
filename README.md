@@ -1,7 +1,7 @@
 # Faliq Hendriana
 
 ## About Me
-Hello there! 👋 I'm Faliq Hendriana, a passionate software developer with a love for creating robust and efficient web applications. I specialize in PHP, JavaScript, CSS, Laravel, and Node.js, and I'm always eager to learn and explore new technologies.
+Hello there! 👋 I'm Faliq Hendriana, a software developer that like efficient web applications. I specialize in PHP, JavaScript, CSS, Laravel, and Node.js, and I'm always eager to learn and explore new technologies.
 
 ## Skills
 - **Languages:** PHP, JavaScript, CSS
