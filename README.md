@@ -15,4 +15,4 @@ I am currently expanding my skill set by diving into the exciting worlds of Flut
 - [LinkedIn](https://www.linkedin.com/in/faliq-k-hendriana-51650120b/)
 - **Email:** [faliq.kintara14@gmail.com](mailto:faliq.kintara14@gmail.com)
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Have a good day :waffle:
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas. Have a good day 🥔🥔🥔
